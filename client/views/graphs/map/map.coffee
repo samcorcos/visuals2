@@ -37,7 +37,7 @@ Template.map.rendered = ->
         # Getting state abbreviations out of the DOM #
         classString = path.className.animVal
         state = classString.slice(classString.length - 2)
-        locatoinConcentration[state] = 0
+        locationConcentration[state] = 0
         return
 
       ###################################

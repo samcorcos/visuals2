@@ -1,3 +1,5 @@
+People = new Mongo.Collection("people");
+
 this.App = {};
 this.Helpers = {};
 
