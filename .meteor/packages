@@ -16,3 +16,6 @@ particle4dev:sass
 accounts-base
 accounts-password
 accounts-ui
+coffeescript
+d3
+mrt:topojson
